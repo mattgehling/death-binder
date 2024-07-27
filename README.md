@@ -8,6 +8,9 @@ Starting with a basic:
 Order is not important. 
 Gathering all the information 
 
+ftest
+
+
 ## Continous Planning
 * Update the details every year
 * The **Transfer on Death Designation Affidavit (TOD)**, when properly recorded, permits the direct transfer of the described real property to the designated beneficiary or beneficiaries upon the death of the owner, thus avoiding Probate administration
